@@ -32,7 +32,7 @@ In this repository, you will know and learn in-depth about:
   * Scraping multiple pages automatically
 
 * Scraping Rotten Tomatoes
-  * Choosing a parser aomng html.parser and lxml
+  * Choosing a parser among html.parser and lxml
   * Finding an element containing all the data 
   * Extracting the title, year and score of each movie (including preprocessing and cleaning)
   * Extracting adjusted score, synopsis, critics consensus (plus 2 ways of text processing), directors and cast info
